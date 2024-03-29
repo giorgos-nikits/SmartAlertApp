@@ -1,5 +1,5 @@
 # SmartAlertApp
-An app I created while in a team for a  university project using Adroid Studio using Java.
+An app I created while in a team for a  university project using Adroid Studio and Java.
 
 We used firebase authentication for the login of the app.
 
